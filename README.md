@@ -27,9 +27,7 @@ An interactive Streamlit web app that helps users prepare for common interview q
 5. View **visual insights** from bar and line charts.
 6. **Export your data** to a CSV file anytime.
 
-## 📸 Screenshots
 
-> (Insert screenshots here once you take them using the app)
 
 ## 🛠️ Tech Stack
 
