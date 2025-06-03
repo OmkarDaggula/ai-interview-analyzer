@@ -2,6 +2,9 @@
 
 An interactive Streamlit web app that helps users prepare for common interview questions by analyzing their answers using a hybrid approach—rule-based keyword scoring and machine learning.
 
+🚀 Live App: [Click to try it](https://aiinterviewapppy-cvcmpghgjzjvwqeb46bwfu.streamlit.app/)
+
+
 ## 🚀 Features
 
 - ✅ 5 commonly asked interview questions
